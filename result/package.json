@@ -8,6 +8,9 @@
   },
   "author": "",
   "license": "MIT",
+  "overrides": {
+  "ws": "^8.21.0"
+},
   "dependencies": {
     "async": "^3.1.0",
     "cookie-parser": "^1.4.6",
